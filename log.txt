@@ -1,0 +1,2 @@
+errno:60
+msg:SERVEROnlineClient writing error
